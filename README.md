@@ -9,7 +9,7 @@ This is an in-depth tutorial of breaking down Stable Diffusion architecture and 
 |||
 |:--------|:---------------:|
 | Chapter 1: Using the pipeline to generate an image.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH1_sampling.ipynb) |
-| Chapter 2: Analyze the architecture and components of Stable Diffusion models.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH2_breakdown.ipynb) |
+| Chapter 2: Analyse the architecture and components of Stable Diffusion models.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH2_breakdown.ipynb) |
 | Chapter 3: Implement Classifier-Free Guidance to enhance generation control.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH3_CFG.ipynb) |
 | Chapter 4: Override attention mechanisms to manipulate image generation process.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH4_attention_breakdown.ipynb) |
 | Chapter 5: Experiment with shared cross-attention layers between multiple images.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH5_attention_replace.ipynb) |
