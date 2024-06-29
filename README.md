@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Ashleigh%20Watson)](https://twitter.com/OutofAi) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Alex%20Nasa)](https://twitter.com/banterless_ai)
 
-A set of simple notebooks to create a clear understanding on Stable Diffusion aspects like sampling, architecture, CFG, attention layers, inverse scheduler, pivotal inversion, image reconsutrction and prompt2prompt editting which we utilise a achieve hyperreaslitic results to edit any real-world face and build a pipeline to build your own face app.
+A set of simple notebooks to create a clear understanding on Stable Diffusion aspects like sampling, architecture, CFG, attention layers, inverse scheduler, pivotal inversion, image reconsutrction and prompt2prompt editting which we utilise to achieve hyperreaslitic results to edit any real-world face and build a pipeline to build your own face app.
 
 |||
 |:--------|:---------------:|
