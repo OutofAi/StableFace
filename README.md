@@ -1,3 +1,7 @@
+
+
+https://github.com/OutofAi/StableFace/assets/145302363/6e9e414a-f3da-47ca-9ad6-61b4bbf9e198
+
 # StableFace
 ## Build your own Face App with Stable Diffusion 2.1 Base
 <a href="https://www.buymeacoffee.com/outofai" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-red?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
