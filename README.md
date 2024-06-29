@@ -9,8 +9,8 @@ A set of simple notebooks to create a clear understanding on Stable Diffusion as
 |||
 |:--------|:---------------:|
 | Chapter 1: Using the pipeline to generate an image.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH1_sampling.ipynb) |
-| Chapter 2: Analyse the architecture and components of Stable Diffusion models.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH2_breakdown.ipynb) |
-| Chapter 3: Implement Classifier-Free Guidance to enhance generation control.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH3_CFG.ipynb) |
+| Chapter 2: Stable Diffusion architecture and components.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH2_breakdown.ipynb) |
+| Chapter 3: Classifier-Free Guidance to enhance image generation.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH3_CFG.ipynb) |
 | Chapter 4: Override attention mechanisms to manipulate image generation process.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH4_attention_breakdown.ipynb) |
 | Chapter 5: Shared cross-attention layers between multiple images.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH5_attention_replace.ipynb) |
 | Chapter 6: DDIM-inversion and pivotal tuning for accurate image reconstruction.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH6_reconstruction.ipynb) |
