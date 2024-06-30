@@ -10,6 +10,8 @@ https://github.com/OutofAi/StableFace/assets/145302363/6e9e414a-f3da-47ca-9ad6-6
 
 A set of simple notebooks to create a clear understanding on Stable Diffusion aspects like sampling, architecture, CFG, attention layers, inverse scheduler, pivotal inversion, image reconsutrction and prompt2prompt editting which we utilise to achieve hyperreaslitic results to edit any real-world face and build a pipeline to build your own face app.
 
+(You can skip to Chapter 7 if you are already familiar with the basics of SD)
+
 |||
 |:--------|:---------------:|
 | Chapter 1: Using the pipeline to generate an image.<br><br> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH1_sampling.ipynb) |
