@@ -1,12 +1,12 @@
 
-
-https://github.com/OutofAi/StableFace/assets/145302363/6e9e414a-f3da-47ca-9ad6-61b4bbf9e198
-
 # StableFace
 ## Build your own Face App with Stable Diffusion 2.1 Base
 <a href="https://www.buymeacoffee.com/outofai" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-red?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Ashleigh%20Watson)](https://twitter.com/OutofAi) 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Alex%20Nasa)](https://twitter.com/banterless_ai)
+
+https://github.com/OutofAi/StableFace/assets/145302363/6e9e414a-f3da-47ca-9ad6-61b4bbf9e198
+
 
 A set of simple notebooks to create a clear understanding on Stable Diffusion aspects like sampling, architecture, CFG, attention layers, inverse scheduler, pivotal inversion, image reconsutrction and prompt2prompt editting which we utilise to achieve hyperreaslitic results to edit any real-world face and build a pipeline to build your own face app.
 
