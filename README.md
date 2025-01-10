@@ -2,8 +2,7 @@
 # StableFace
 
 <a href="https://www.buymeacoffee.com/outofai" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-red?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Ashleigh%20Watson)](https://twitter.com/OutofAi) 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Alex%20Nasa)](https://twitter.com/banterless_ai)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Out%20of%20AI)](https://twitter.com/OutofAi)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OutofAi/StableFace/blob/main/CH7_stable_face.ipynb)
 
 ## Build your own Face App with Stable Diffusion 2.1 Base
